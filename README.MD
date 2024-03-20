@@ -75,6 +75,9 @@ You also need to install go from https://golang.org/dl/ as version 1.16 is not s
 
 * Having xcode properly installed (clang needed)
 
+#### Windows build
+download & install portaudio from https://github.com/PortAudio/portaudio
+
 ````shell
 brew install portaudio fdk-aac go 
 ````
